@@ -62,3 +62,16 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(6, activation='relu'),
     tf.keras.layers.Dense(1, activation='sigmoid')
 ])
+
+📚 Learnings
+Handling large text datasets using TensorFlow
+Understanding tokenization, word embedding, and padding
+Creating and training a simple text classification model
+
+Sample Output
+Review: This was an absolutely terrible movie...
+Predicted Sentiment: Negative
+
+📬 Contact
+For questions, reach out to sharma.deepak011199@gmail.com or connect on LinkedIn - https://www.linkedin.com/in/deepak-sharma-451918171/
+
